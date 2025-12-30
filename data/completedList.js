@@ -1,0 +1,252 @@
+// [
+//   {
+//     "brand": "hdfcbank",
+//     "industry": "Banking",
+//     "contactSource": "Official website – Contact Us",
+//     "status": "sent",
+//     "email": "aamir.zafar@hdfcbank.com",
+//     "name": "Aamir Zafar"
+//   },
+//   {
+//     "brand": "hdfcbank",
+//     "industry": "Banking",
+//     "contactSource": "Official website – Contact Us",
+//     "status": "sent",
+//     "email": "jeeshan.ali@hdfcbank.com",
+//     "name": "Jeeshan Ali"
+//   },
+//   {
+//     "brand": "Teachmint",
+//     "industry": "Education Technology",
+//     "contactSource": "LinkedIn – Profile",
+//     "status": "sent",
+//     "email": "hassan.external@teachmint.com",
+//     "name": "Hassan Zahid"
+//   },
+//   {
+//     "brand": "upGard",
+//     "industry": "Cybersecurity",
+//     "contactSource": "LinkedIn – Profile",
+//     "status": "sent",
+//     "email": "praneet.singh@upgrad.com",
+//     "name": "Praneet Singh"
+//   },
+//   {
+//     "brand": "boAt Lifestyle",
+//     "industry": " Consumer Electronics",
+//     "contactSource": "LinkedIn – Profile",
+//     "status": "sent",
+//     "email": "protul.mukherjee@imaginemarketingindia.com",
+//     "name": "Protul Mukherjee"
+//   },
+//   {
+//     "brand": "boAt Lifestyle",
+//     "industry": " Consumer Electronics",
+//     "contactSource": "LinkedIn – Profile",
+//     "status": "sent",
+//     "email": "protulmukherjee12@gmail.com",
+//     "name": "Protul Mukherjee"
+//   },
+//   {
+//     "brand": "Croma",
+//     "industry": " Consumer Electronics",
+//     "contactSource": "LinkedIn – Profile",
+//     "status": "sent",
+//     "email": "aseem.saxena@croma.com",
+//     "name": "Aseem Saxena"
+//   },
+//   {
+//     "brand": "Bewakoof.com",
+//     "industry": "E-commerce",
+//     "contactSource": "LinkedIn – Profile",
+//     "status": "sent",
+//     "email": "nikhil.a@bewakoof.com",
+//     "name": "Nikhil Anand"
+//   },
+//   {
+//     "brand": "Reliance Digital",
+//     "industry": " Consumer Electronics",
+//     "contactSource": "LinkedIn – Profile",
+//     "status": "sent",
+//     "email": "shipra.mishra@ril.com",
+//     "name": "Shipra Mishra"
+//   }
+// ]
+
+[
+  {
+    name: "Sidhant Kalra",
+    brand: "Khan Chacha",
+    email: "sidhantkalra@khanchacha.com",
+    designation: "Director",
+    status: "sent",
+  },
+  {
+    name: "Ravi Kumar",
+    brand: "DMart",
+    email: "aelv-ravi.kumar@dmartindia.com",
+    designation: "Department Sales Manager",
+    status: "sent",
+  },
+  {
+    name: "Sanjay Sinha",
+    brand: "Hindustan Times",
+    email: "sinhas@hindustantimes.com",
+    designation: "Vice President",
+    status: "sent",
+  },
+  {
+    name: "Shivam Bhola",
+    brand: "United Colors of Benetton India",
+    email: "bhola.shivam@benetton.com",
+    designation: "Territory Sales Manager",
+    status: "sent",
+  },
+  {
+    name: "Amandeep Singh",
+    brand: "Lenskart.com",
+    email: "amandeep.singh@lenskart.com",
+    designation: "Sales Manager",
+    status: "sent",
+  },
+  {
+    name: "Aditya",
+    brand: "Hindustan Times",
+    email: "aditya1@hindustantimes.com",
+    designation: "Sales Manager",
+    status: "sent",
+  },
+  {
+    name: "Virender Negi",
+    brand: "United Colors of Benetton India",
+    email: "negi.virender@benetton.com",
+    designation: "Area Sales Manager",
+    status: "sent",
+  },
+  {
+    name: "Rishi Prakash",
+    brand: "Panacea Biotec",
+    email: "rishiprakash@panaceabiotec.com",
+    designation: "VP, Sales and Business Development",
+    status: "sent",
+  },
+  {
+    name: "Ashish Panacea",
+    brand: "Panacea Biotec",
+    email: "ashishpanacea@panaceabiotec.com",
+    designation: "Sales",
+    status: "sent",
+  },
+  {
+    name: "Harshet Jain",
+    brand: "Panacea Biotec",
+    email: "harshetjain@panaceabiotec.com",
+    designation: "Director",
+    status: "sent",
+  },
+  {
+    name: "Manoj Shukla",
+    brand: "Hindustan Times",
+    email: "manoj.s@htlive.com",
+    designation: "Sales Manager",
+    status: "sent",
+  },
+  {
+    name: "Kulvinder Sarao",
+    brand: "Panacea Biotec",
+    email: "kulvindersarao@panaceabiotec.com",
+    designation: "Senior Vice President",
+    status: "sent",
+  },
+  {
+    name: "Shobhit Kumar",
+    brand: "Hindustan Times",
+    email: "shobhit.kumar@hindustantimes.com",
+    designation: "Vice President of Sales",
+    status: "sent",
+  },
+  {
+    name: "Ankesh Jain",
+    brand: "Panacea Biotec",
+    email: "ankeshjain@panaceabiotec.com",
+    designation: "Director - Sales and Marketing",
+    status: "sent",
+  },
+  {
+    name: "Sanjeev Sama",
+    brand: "Hindustan Times",
+    email: "sanjeev.s@hindustantimes.com",
+    designation: "Vice President",
+    status: "sent",
+  },
+  {
+    name: "Nitish Gupta",
+    brand: "Hindustan Times",
+    email: "nitish.gupta@htdigital.in",
+    designation: "Sales Manager",
+    status: "sent",
+  },
+  {
+    name: "Ganesh Kaushick",
+    brand: "NDTV",
+    email: "ganeshk@ndtv.com",
+    designation: "Vice President",
+    status: "sent",
+  },
+  {
+    name: "Tushar Banerjee",
+    brand: "ABP Network",
+    email: "tushar@abpnetwork.com",
+    designation: "Vice President - Digital",
+    status: "sent",
+  },
+  {
+    name: "Maitri Tyagi",
+    brand: "Decathlon",
+    email: "maitri.tyagi@decathlon-united.com",
+    designation: "Sales Manager",
+    status: "sent",
+  },
+  {
+    name: "Aarti Jain",
+    brand: "Barista Coffee Company",
+    email: "aarti.jain@barista.co.in",
+    designation: "Director",
+    status: "sent",
+  },
+  {
+    name: "Dinesh Vishwakarma",
+    brand: "Hindustan Times",
+    email: "dinesh.vishwakarma@hindustantimes.com",
+    designation: "Senior Manager Sales and Marketing",
+    status: "sent",
+  },
+  {
+    name: "Indra Singh",
+    brand: "Panacea Biotec",
+    email: "indrasingh@panaceabiotec.com",
+    designation: "Sales",
+    status: "sent",
+  },
+  {
+    name: "Sachin Malhotra",
+    brand: "NDTV",
+    email: "sachinm@ndtv.com",
+    designation: "Vice President - Sales",
+    status: "sent",
+  },
+  {
+    name: "Amul Jain",
+    brand: "NDTV",
+    email: "amulj@ndtv.com",
+    designation: "Associate Vice President",
+    status: "sent",
+  },
+  {
+    name: "Rajeev Dubey",
+    brand: "NDTV",
+    email: "rajeevd@ndtv.com",
+    designation: "Sales Account Manager",
+    status: "sent",
+  },
+];
