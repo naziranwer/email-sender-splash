@@ -1,464 +1,681 @@
 [
   {
-    "name": "Sidhant Kalra",
-    "brand": "Khan Chacha",
-    "email": "sidhantkalra@khanchacha.com",
-    "designation": "Director",
-    "status": "sent"
+    "name": "tvisah.tuli",
+    "brand": "Bain & Company",
+    "email": "tvisah.tuli@bain.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Ravi Kumar",
-    "brand": "DMart",
-    "email": "aelv-ravi.kumar@dmartindia.com",
-    "designation": "Department Sales Manager",
-    "status": "sent"
+    "name": "singhv",
+    "brand": "Bajaj Auto Ltd",
+    "email": "singhv@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Sanjay Sinha",
-    "brand": "Hindustan Times",
-    "email": "sinhas@hindustantimes.com",
-    "designation": "Vice President",
-    "status": "sent"
+    "name": "pyadav",
+    "brand": "Bajaj Auto Ltd",
+    "email": "pyadav@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Shivam Bhola",
-    "brand": "United Colors of Benetton India",
-    "email": "bhola.shivam@benetton.com",
-    "designation": "Territory Sales Manager",
-    "status": "sent"
+    "name": "ssmarayan",
+    "brand": "Bajaj Auto Ltd",
+    "email": "ssmarayan@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Amandeep Singh",
-    "brand": "Lenskart.com",
-    "email": "amandeep.singh@lenskart.com",
-    "designation": "Sales Manager",
-    "status": "sent"
+    "name": "skjat",
+    "brand": "Bajaj Auto Ltd",
+    "email": "skjat@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Aditya",
-    "brand": "Hindustan Times",
-    "email": "aditya1@hindustantimes.com",
-    "designation": "Sales Manager",
-    "status": "sent"
+    "name": "rmud",
+    "brand": "Bajaj Auto Ltd",
+    "email": "rmud@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Virender Negi",
-    "brand": "United Colors of Benetton India",
-    "email": "negi.virender@benetton.com",
-    "designation": "Area Sales Manager",
-    "status": "sent"
+    "name": "maharanary",
+    "brand": "Bajaj Auto Ltd",
+    "email": "maharanary@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Rishi Prakash",
-    "brand": "Panacea Biotec",
-    "email": "rishiprakash@panaceabiotec.com",
-    "designation": "VP, Sales and Business Development",
-    "status": "sent"
+    "name": "bolyars",
+    "brand": "Bajaj Auto Ltd",
+    "email": "bolyars@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Ashish Panacea",
-    "brand": "Panacea Biotec",
-    "email": "ashishpanacea@panaceabiotec.com",
-    "designation": "Sales",
-    "status": "sent"
+    "name": "sagrawal",
+    "brand": "Bajaj Auto Ltd",
+    "email": "sagrawal@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Harshet Jain",
-    "brand": "Panacea Biotec",
-    "email": "harshetjain@panaceabiotec.com",
-    "designation": "Director",
-    "status": "sent"
+    "name": "rwangshu",
+    "brand": "Bajaj Auto Ltd",
+    "email": "rwangshu@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Manoj Shukla",
-    "brand": "Hindustan Times",
-    "email": "manoj.s@htlive.com",
-    "designation": "Sales Manager",
-    "status": "sent"
+    "name": "ktwana",
+    "brand": "Bajaj Auto Ltd",
+    "email": "ktwana@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Kulvinder Sarao",
-    "brand": "Panacea Biotec",
-    "email": "kulvindersarao@panaceabiotec.com",
-    "designation": "Senior Vice President",
-    "status": "sent"
+    "name": "sandeepsingh",
+    "brand": "Bajaj Auto Ltd",
+    "email": "sandeepsingh@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Shobhit Kumar",
-    "brand": "Hindustan Times",
-    "email": "shobhit.kumar@hindustantimes.com",
-    "designation": "Vice President of Sales",
-    "status": "sent"
+    "name": "rajeshm",
+    "brand": "Bajaj Auto Ltd",
+    "email": "rajeshm@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Ankesh Jain",
-    "brand": "Panacea Biotec",
-    "email": "ankeshjain@panaceabiotec.com",
-    "designation": "Director - Sales and Marketing",
-    "status": "sent"
+    "name": "deepak.pandey",
+    "brand": "Bajaj Auto Ltd",
+    "email": "deepak.pandey@bajajauto.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Sanjeev Sama",
-    "brand": "Hindustan Times",
-    "email": "sanjeev.s@hindustantimes.com",
-    "designation": "Vice President",
-    "status": "sent"
+    "name": "chaudburi",
+    "brand": "Bajaj Auto Ltd",
+    "email": "chaudburi@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Nitish Gupta",
-    "brand": "Hindustan Times",
-    "email": "nitish.gupta@htdigital.in",
-    "designation": "Sales Manager",
-    "status": "sent"
+    "name": "stutik",
+    "brand": "Bajaj Auto Ltd",
+    "email": "stutik@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Ganesh Kaushick",
-    "brand": "NDTV",
-    "email": "ganeshk@ndtv.com",
-    "designation": "Vice President",
-    "status": "sent"
+    "name": "sanand",
+    "brand": "Bajaj Auto Ltd",
+    "email": "sanand@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Tushar Banerjee",
-    "brand": "ABP Network",
-    "email": "tushar@abpnetwork.com",
-    "designation": "Vice President - Digital",
-    "status": "sent"
+    "name": "agasurana",
+    "brand": "Bajaj Auto Ltd",
+    "email": "agasurana@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Maitri Tyagi",
-    "brand": "Decathlon",
-    "email": "maitri.tyagi@decathlon-united.com",
-    "designation": "Sales Manager",
-    "status": "sent"
+    "name": "vsharma",
+    "brand": "Bajaj Auto Ltd",
+    "email": "vsharma@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Aarti Jain",
-    "brand": "Barista Coffee Company",
-    "email": "aarti.jain@barista.co.in",
-    "designation": "Director",
-    "status": "sent"
+    "name": "padmanabhanvs",
+    "brand": "Bajaj Auto Ltd",
+    "email": "padmanabhanvs@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Dinesh Vishwakarma",
-    "brand": "Hindustan Times",
-    "email": "dinesh.vishwakarma@hindustantimes.com",
-    "designation": "Senior Manager Sales and Marketing",
-    "status": "sent"
+    "name": "kumars",
+    "brand": "Bajaj Auto Ltd",
+    "email": "kumars@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Indra Singh",
-    "brand": "Panacea Biotec",
-    "email": "indrasingh@panaceabiotec.com",
-    "designation": "Sales",
-    "status": "sent"
+    "name": "benjamynmathai",
+    "brand": "Bajaj Auto Ltd",
+    "email": "benjamynmathai@bajajauto.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Sachin Malhotra",
-    "brand": "NDTV",
-    "email": "sachinm@ndtv.com",
-    "designation": "Vice President - Sales",
-    "status": "sent"
+    "name": "hparmar",
+    "brand": "Bajaj Auto Ltd",
+    "email": "hparmar@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Amul Jain",
-    "brand": "NDTV",
-    "email": "amulj@ndtv.com",
-    "designation": "Associate Vice President",
-    "status": "sent"
+    "name": "ashukla",
+    "brand": "Bajaj Auto Ltd",
+    "email": "ashukla@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Rajeev Dubey",
-    "brand": "NDTV",
-    "email": "rajeevd@ndtv.com",
-    "designation": "Sales Account Manager",
-    "status": "sent"
+    "name": "r.kaur",
+    "brand": "Bajaj Finserv",
+    "email": "r.kaur@bajajfinserv.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Abhishek",
-    "brand": "Starbucks India",
-    "email": "s223@tatastarbucks.com",
-    "designation": "District Manager",
-    "status": "sent"
+    "name": "rais",
+    "brand": "Bajaj Auto Ltd",
+    "email": "rais@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Hirak",
-    "brand": "Starbucks India",
-    "email": "dash@tatastarbucks.com",
-    "designation": "District Manager",
-    "status": "sent"
+    "name": "pshah",
+    "brand": "Bajaj Auto Ltd",
+    "email": "pshah@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Vrishti",
-    "brand": "Haldiram Snacks Food Pvt",
-    "email": "vrishti.sharma@haldiram.com",
-    "designation": "Assistant Manager",
-    "status": "sent"
+    "name": "sverma",
+    "brand": "Bajaj Auto Ltd",
+    "email": "sverma@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Ritu",
-    "brand": "Haldiram Snacks Food Pvt",
-    "email": "ritu.sharma@haldiram.com",
-    "designation": "Assistant Manager",
-    "status": "sent"
+    "name": "dgupta",
+    "brand": "Bajaj Auto Ltd",
+    "email": "dgupta@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Bikesh",
-    "brand": "Barista Coffee Company",
-    "email": "bikesh.kumar@barista.co.in",
-    "designation": "Business Manager",
-    "status": "sent"
+    "name": "abhishek.sinha",
+    "brand": "Bajaj Finserv",
+    "email": "abhishek.sinha@bajajfinserv.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Prateek",
-    "brand": "Starbucks India",
-    "email": "prateek.mittal@tatastarbucks.com",
-    "designation": "Manager - Partner Resources",
-    "status": "sent"
+    "name": "tnagpal",
+    "brand": "Bajaj Auto Ltd",
+    "email": "tnagpal@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Sumit",
-    "brand": "Haldiram Snacks Food Pvt",
-    "email": "sumit.chaudhary@haldiram.com",
-    "designation": "Assistant Manager",
-    "status": "sent"
+    "name": "ksingh",
+    "brand": "Bajaj Auto Ltd",
+    "email": "ksingh@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Saurabh",
-    "brand": "Haldiram Snacks Food Pvt",
-    "email": "saurabh@haldiram.com",
-    "designation": "Store Manager",
-    "status": "sent"
+    "name": "anegpal",
+    "brand": "Bajaj Auto Ltd",
+    "email": "anegpal@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Pankkaj",
-    "brand": "Haldiram Snacks Food Pvt",
-    "email": "pankkajagarwal@haldiram.com",
-    "designation": "Managing Director",
-    "status": "sent"
+    "name": "swaghmare",
+    "brand": "Bajaj Auto Ltd",
+    "email": "swaghmare@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Pankaj",
-    "brand": "Haldiram Snacks Food Pvt",
-    "email": "pankajagarwal@haldiram.com",
-    "designation": "Managing Director",
-    "status": "sent"
+    "name": "v.kumar",
+    "brand": "Bajaj Finserv",
+    "email": "v.kumar@bajajfinserv.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Kamal",
-    "brand": "Starbucks India",
-    "email": "",
-    "designation": "Store Manager",
-    "status": "failed"
+    "name": "uapatole",
+    "brand": "Bajaj Auto Ltd",
+    "email": "uapatole@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Swati",
-    "brand": "Khan Academy",
-    "email": "swati@khanacademy.org",
-    "designation": "Managing Director",
-    "status": "sent"
+    "name": "soumyad",
+    "brand": "Bajaj Auto Ltd",
+    "email": "soumyad@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Sahil",
-    "brand": "Starbucks India",
-    "email": "sseth@starbucks.com",
-    "designation": "Store Manager",
-    "status": "sent"
+    "name": "narayan",
+    "brand": "Bajaj Auto Ltd",
+    "email": "narayan@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Aarti",
-    "brand": "Barista Coffee Company",
-    "email": "aarti.jain@barista.co.in",
-    "designation": "Director",
-    "status": "sent"
+    "name": "dmalhotra",
+    "brand": "Bajaj Auto Ltd",
+    "email": "dmalhotra@bajajauto.co.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Sidhant",
-    "brand": "Khan Chacha",
-    "email": "sidhantkalra@khanchacha.com",
-    "designation": "Director",
-    "status": "sent"
+    "name": "monal.wagh",
+    "brand": "Bajaj Electricals Ltd",
+    "email": "monal.wagh@bajajelctricals.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Pulak",
-    "brand": "Haldiram Snacks Food Pvt",
-    "email": "pulak.biswas@haldiram.com",
-    "designation": "General Manager",
-    "status": "sent"
+    "name": "nitish.solanki",
+    "brand": "Bajaj Electricals Ltd",
+    "email": "nitish.solanki@bajajelctricals.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Tarun",
-    "brand": "Haldiram Snacks Food Pvt",
-    "email": "tarun.khanna@haldiram.com",
-    "designation": "Training Manager",
-    "status": "sent"
+    "name": "pavan.chilate",
+    "brand": "Bajaj Electricals Ltd",
+    "email": "pavan.chilate@bajajelctricals.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Himanshu",
-    "brand": "Barista Coffee Company",
-    "email": "himanshu.goel@barista.co.in",
-    "designation": "Business Manager",
-    "status": "sent"
+    "name": "nilesh.tiwari",
+    "brand": "Bajaj Electricals Ltd",
+    "email": "nilesh.tiwari@bajajelctricals.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Brij",
-    "brand": "Haldiram Snacks Food Pvt",
-    "email": "bmsharma@haldiram.com",
-    "designation": "Manager",
-    "status": "sent"
+    "name": "anand.sharma",
+    "brand": "Bajaj Electricals Ltd",
+    "email": "anand.sharma@bajajelctricals.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Vinod",
-    "brand": "Barista Coffee Company",
-    "email": "vinod.kumar@barista.co.in",
-    "designation": "Deputy Manager",
-    "status": "sent"
+    "name": "soumyajyoti.ghosh",
+    "brand": "Bajaj Electricals Ltd",
+    "email": "soumyajyoti.ghosh@bajajelctricals.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Chirdeep",
-    "brand": "Haldiram Snacks Food Pvt",
-    "email": "chirdeep.ajitsaria@haldiram.com",
-    "designation": "Manager",
-    "status": "sent"
+    "name": "partha.banerji",
+    "brand": "Bajaj Electricals Ltd",
+    "email": "partha.banerji@bajajelctricals.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Rajiv",
-    "brand": "Starbucks India",
-    "email": "rajiv.kumar@tatastarbucks.com",
-    "designation": "Regional Director - Operations",
-    "status": "sent"
+    "name": "pramod_16_k",
+    "brand": "Bajaj Electricals",
+    "email": "pramod_16_k@yahoo.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Naveen",
-    "brand": "Starbucks India",
-    "email": "naveen.rawat@tatastarbucks.com",
-    "designation": "Manager - Marketing",
-    "status": "sent"
+    "name": "pramodk",
+    "brand": "Bajaj Electricals",
+    "email": "pramodk@bajajelctricals.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Rahul",
-    "brand": "Starbucks India",
-    "email": "rahul.daniel@tatastarbucks.com",
-    "designation": "District Manager",
-    "status": "sent"
+    "name": "pramod.khosla",
+    "brand": "Bajaj Electricals",
+    "email": "pramod.khosla@bajajelctricals.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Abhishek",
-    "brand": "Starbucks India",
-    "email": "abhishekkumar.singh@tatastarbucks.com",
-    "designation": "Assistant Manager",
-    "status": "sent"
+    "name": "prashant.thorat",
+    "brand": "Bajaj Electricals",
+    "email": "prashant.thorat@bajajelctricals.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Ravindra",
-    "brand": "Barista Coffee Company",
-    "email": "ravindra.kumar@barista.co.in",
-    "designation": "IT Manager",
-    "status": "sent"
+    "name": "pdrtiddhi16",
+    "brand": "Bajaj Electricals",
+    "email": "pdrtiddhi16@gmail.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Sheeraz",
-    "brand": "Barista Coffee Company",
-    "email": "sheeraz.jawed@barista.co.in",
-    "designation": "Sr. Manager Culinary Innovation",
-    "status": "sent"
+    "name": "harman",
+    "brand": "Bajaj KTM",
+    "email": "harman@togetherrmedia.in",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Mayank",
-    "brand": "Barista Coffee Company",
-    "email": "mayank.shukla@barista.co.in",
-    "designation": "AVP Operations",
-    "status": "sent"
+    "name": "rahuldarekar",
+    "brand": "Bajaj Electricals",
+    "email": "rahuldarekar@bajajelctricals.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Ravinder",
-    "brand": "Barista Coffee Company",
-    "email": "ravinder.tyagi@barista.co.in",
-    "designation": "Associate Manager HR",
-    "status": "sent"
+    "name": "tannu.sharma",
+    "brand": "Balaji Telefilms",
+    "email": "tannu.sharma@balajitelefilms.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Sumit",
-    "brand": "Barista Coffee Company",
-    "email": "sumit.sethi@barista.co.in",
-    "designation": "Deputy Manager Operations",
-    "status": "sent"
+    "name": "sunanda",
+    "brand": "Balaji Telefilms",
+    "email": "sunanda@balajitelefilms.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Nikhil",
-    "brand": "BEWAKOOF",
-    "email": "nikhil.a@bewakoof.com",
-    "designation": "Regional Manager",
-    "status": "sent"
+    "name": "chetan.avchar",
+    "brand": "Balaji Telefilms",
+    "email": "chetan.avchar@balajitelefilms.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Karan",
-    "brand": "boAt Lifestyle",
-    "email": "karan.joshi@imaginemarketingindia.com",
-    "designation": "Senior Manager",
-    "status": "sent"
+    "name": "sanjay.dwivedi",
+    "brand": "Balaji Telefilms",
+    "email": "sanjay.dwivedi@balajitelefilms.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Shashank",
-    "brand": "upGrad",
-    "email": "shashank1.singh@upgrad.com",
-    "designation": "Assistant Manager",
-    "status": "sent"
+    "name": "ekta.kapoor",
+    "brand": "Balaji Telefilms",
+    "email": "ekta.kapoor@altbalaji.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Hassan",
-    "brand": "Teachmint",
-    "email": "hassan.external@teachmint.com",
-    "designation": "Project Manager",
-    "status": "sent"
+    "name": "dominic.dsouza",
+    "brand": "Balaji Telefilms",
+    "email": "dominic.dsouza@balajitelefilms.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Harish",
-    "brand": "Reliance Digital",
-    "email": "harish.m.singh@ril.com",
-    "designation": "Department Manager",
-    "status": "sent"
+    "name": "zulfiqar",
+    "brand": "Balaji Telefilms",
+    "email": "zulfiqar@balajitelefilms.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Yuvraj",
-    "brand": "Titan Eyeplus",
-    "email": "",
-    "designation": "Managing Director",
-    "status": "failed"
+    "name": "nachiket.pantvaidya",
+    "brand": "Balaji Telefilms",
+    "email": "nachiket.pantvaidya@balajitelefilms.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Manish",
-    "brand": "Croma",
-    "email": "manish.rawat@croma.com",
-    "designation": "Cluster Manager",
-    "status": "sent"
+    "name": "abhishek.kumar",
+    "brand": "Balaji Telefilms",
+    "email": "abhishek.kumar@balajitelefilms.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Arpit",
-    "brand": "Croma",
-    "email": "arpit.agarwal@croma.com",
-    "designation": "Assistant Manager",
-    "status": "sent"
+    "name": "KS.Ganesha",
+    "brand": "Ball",
+    "email": "KS.Ganesha@ball.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Protul",
-    "brand": "boAt Lifestyle",
-    "email": "protul.mukherjee@imaginemarketingindia.com",
-    "designation": "Associate Director - Sales Operations",
-    "status": "sent"
+    "name": "Preeti.falwaria",
+    "brand": "Ball",
+    "email": "Preeti.falwaria@ball.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Rajnish",
-    "brand": "Reliance Digital",
-    "email": "rajnish.singh@ril.com",
-    "designation": "Store Manager",
-    "status": "sent"
+    "name": "saurabh.chopra",
+    "brand": "Ballebazi",
+    "email": "saurabh.chopra@gmail.com",
+    "designation": "",
+    "status": "pending"
   },
   {
-    "name": "Aman",
-    "brand": "upGrad",
-    "email": "aman.chauhan@upgrad.com",
-    "designation": "Marketing Manager",
-    "status": "sent"
+    "name": "yogesh.shinde",
+    "brand": "Barclays",
+    "email": "yogesh.shinde@barclays.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "rahul.rathore",
+    "brand": "Bandhan Bank",
+    "email": "rahul.rathore@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "poulami.pal",
+    "brand": "Bandhan Bank",
+    "email": "poulami.pal@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "partha.dhar",
+    "brand": "Bandhan Bank",
+    "email": "partha.dhar@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "debomita.thakurta",
+    "brand": "Bandhan Bank",
+    "email": "debomita.thakurta@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "bishal.roy",
+    "brand": "Bandhan Bank",
+    "email": "bishal.roy@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "mohammad.musheer",
+    "brand": "Bandhan Bank",
+    "email": "mohammad.musheer@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "sanjeb.paul",
+    "brand": "Bandhan Bank",
+    "email": "sanjeb.paul@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "suresh.chandra",
+    "brand": "Bandhan Bank",
+    "email": "suresh.chandra@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "kumar.sheshvendra",
+    "brand": "Bandhan Bank",
+    "email": "kumar.sheshvendra@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "debraj.das",
+    "brand": "Bandhan Bank",
+    "email": "debraj.das@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "ishmeet.lamba",
+    "brand": "Bandhan Bank",
+    "email": "ishmeet.lamba@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "nabab.banerjee",
+    "brand": "Bandhan Bank",
+    "email": "nabab.banerjee@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "pradip.dey",
+    "brand": "Bandhan Bank",
+    "email": "pradip.dey@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "debashish.bapuly",
+    "brand": "Bandhan Bank",
+    "email": "debashish.bapuly@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "atharv.kulkarni",
+    "brand": "Bandhan Bank",
+    "email": "atharv.kulkarni@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "hital.pardiwala",
+    "brand": "Bandhan Bank",
+    "email": "hital.pardiwala@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "shimul.aich",
+    "brand": "Bandhan Bank",
+    "email": "shimul.aich@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "apurva.sircar",
+    "brand": "Bandhan Bank",
+    "email": "apurva.sircar@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "nabarmalya.rout",
+    "brand": "Bandhan Bank",
+    "email": "nabarmalya.rout@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "arjit.sen",
+    "brand": "Bandhan Bank",
+    "email": "arjit.sen@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "himanshita.kashyap",
+    "brand": "Bandhan Bank",
+    "email": "himanshita.kashyap@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "debraj.saha",
+    "brand": "Bandhan Bank",
+    "email": "debraj.saha@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "praveen.mishra",
+    "brand": "Bandhan Bank",
+    "email": "praveen.mishra@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "sunanda.roy",
+    "brand": "Bandhan Bank",
+    "email": "sunanda.roy@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "subhasree.bhowmick",
+    "brand": "Bandhan Bank",
+    "email": "subhasree.bhowmick@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "harish.saraf",
+    "brand": "Bandhan Bank",
+    "email": "harish.saraf@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "biswa.mohanty",
+    "brand": "Bandhan Bank",
+    "email": "biswa.mohanty@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "sree.kumar",
+    "brand": "Bandhan Bank",
+    "email": "sree.kumar@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "smonda",
+    "brand": "Bandhan Bank",
+    "email": "smonda@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "ajayesh.srivastav",
+    "brand": "Bandhan Bank",
+    "email": "ajayesh.srivastav@bandhanbank.com",
+    "designation": "",
+    "status": "pending"
+  },
+  {
+    "name": "aayushi",
+    "brand": "Bands And Cups",
+    "email": "aayushi@bandsandcups.com",
+    "designation": "",
+    "status": "pending"
   }
 ]
